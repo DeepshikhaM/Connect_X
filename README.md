@@ -1,4 +1,4 @@
-# # 🏆 ConnectX Reinforcement Learning Agent
+ # 🏆 ConnectX Reinforcement Learning Agent
 
 ## 📌 Project Description  
 Developing a reinforcement learning agent to play **ConnectX**, a strategic game where players drop checkers into a grid, aiming to align a specific number in a row before the opponent. The project involves training an AI model to optimize moves using **reinforcement learning**, ensuring competitive gameplay against other agents.
